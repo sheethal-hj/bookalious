@@ -1,0 +1,51 @@
+body {
+    padding-top: 50px;
+    background-image: url(../images/book.jpg);
+    background-size: 100%;
+  }
+  .em-text {
+    color: #1256ff !important;
+  }
+  .jumbotron{
+    background: url(../images/book.jpg) no-repeat fixed;
+    background-size: 100%;
+  }
+  
+ 
+  #main_vrap{
+    text-align:center;
+    width:300px;
+    margin:0 auto;
+    background:rgba(255, 255, 255, 0.932);
+    padding:5px;
+    border-radius:2px solid #34495e;
+  }
+  .login_nano{
+    text-align:center;
+    width: 150px;
+    text-align:center;
+  }
+  
+  
+  .form{
+    text-align:center;
+    width:250px;
+    margin:0 auto;
+  }
+  .inputvalues{
+    text-align:left;
+    width:230px;
+    margin:0 auto;
+    padding:5px;
+  }
+  #login_btn{
+    text-align:center;
+    margin-top:10px;
+    background-color:#378cd1;
+    padding:5px;
+    color:white;
+    width:100%;
+    text-align:center;
+    font-size:18px;
+    font-weight:bold;
+  }
